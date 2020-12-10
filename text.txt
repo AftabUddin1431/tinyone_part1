@@ -1,0 +1,6 @@
+black #010101;
+Light blue: #313841;
+ash #555555;
+yellow: #fcdb00;
+white: 898989;
+white ftr : #ffffff;
